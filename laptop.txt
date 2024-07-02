@@ -1,0 +1,5 @@
+1,Razer Blade 55, Razer SOS, $2000, 2005, i7 7th Gen, GTX 3060
+2,XPS Max Pro 32, Dell Plus, $1976, 1549, i5 9th Gen, GTX 3070
+3,Alienware Max2, Alienware, $1978, 2423, i5 9th Gen, GTX 3070
+4,Swift Pro Max7, Acer Duo,  $900, 1212, i5 9th Gen, GTX 3070
+5,Macbook Pro 16, Apple Sp,  $3500, 1045, i5 9th Gen, GTX 3070

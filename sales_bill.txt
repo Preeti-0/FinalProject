@@ -1,0 +1,24 @@
+
+        ------------------------------------------------
+                  Jhonny Electronic store
+        ------------------------------------------------
+        ------------------------------------------------
+        Transaction Date : 2024-07-02  10:40
+
+        Customer Name : asf
+        Customer Address : pkhr
+        Customer Contact : 980564225
+
+        Laptop Name  : Swift Pro Max7
+        Laptop Brand :  Acer Duo
+        Laptop Price :   $900
+        Quantity     : 6
+        ------------------------------------------------
+        Shipping Cost : 500
+        ------------------------------------------------
+        Total Amount (without shipping cost): $5400.0
+
+        Grand Total Amount : 5900.0 
+
+        ------------------ THANK YOU -------------------
+        
